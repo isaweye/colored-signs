@@ -1,0 +1,7 @@
+name: ColoredSigns
+version: '${project.version}'
+main: uk.mqchinee.coloredsigns.ColoredSigns
+authors: [ mqchinee ]
+description: Upgrade your signs!
+permissions:
+  coloredsigns.color: {}
